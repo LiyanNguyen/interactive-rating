@@ -13,7 +13,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 
 ### Links
-
+- Live Site: https://liyannguyen.github.io/interactive-rating
+- Repository: https://github.com/LiyanNguyen/interactive-rating
 
 ### Built with
 - Semantic HTML5 markup
