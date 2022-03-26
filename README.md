@@ -13,8 +13,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 
 ### Links
-- Live Site: https://liyannguyen.github.io/interactive-rating
-- Repository: https://github.com/LiyanNguyen/interactive-rating
+- Solution URL: https://github.com/LiyanNguyen/interactive-rating
+- Live Site URL: https://liyannguyen.github.io/interactive-rating
 
 ### Built with
 - Semantic HTML5 markup
@@ -24,7 +24,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 
 ## Author
-
 - Website - [Liyan Anajao](https://liyannguyen.github.io/Portfolio)
 - Frontend Mentor - [@LiyanNguyen](https://frontendmentor.io/profile/LiyanNguyen)
 - Twitter - [@LiyanAnajao](https://twitter.com/LiyanAnajao)
